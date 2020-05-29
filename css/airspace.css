@@ -251,6 +251,8 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
+  background: linear-gradient(to left, #8b86a3, #322e40);
+  opacity: 0.8;
 }
 #feature h2 {
   font-size: 28px;
