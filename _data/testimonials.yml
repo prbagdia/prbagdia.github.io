@@ -1,16 +1,12 @@
 - name: Sangita Bagdia
   title: My mom
-  testimonial: "He is the better child, his elder sister"
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+  testimonial: "I love him more than my other child. He is the best son."
+  # image: img/item-img1.jpg
+- name: My Best Friend
+  title: Prick
+  testimonial: "Prashant is hopless, good luck trying to bear him for 2 years"
+  # image: img/item-img1.jpg
+- name: Sharmaji
+  title: Pados wale uncle
+  testimonial: "Mai jab tumhari umar ka tha, mai bhi zindagi ke khup maze leta tha"
+  # image: img/item-img1.jpg
