@@ -1,12 +1,12 @@
-- counter: 20000
-  icon: ion-ios-chatboxes-outline
-  text: Cups of Coffee
-- counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
+- counter: 25
+  icon: ion-ios-person
+  text: Years old 
+- counter: 3
+  icon: ion-ios-laptop
+  text: Years of work experience
+- counter: 2017
+  icon: ion-ios-book
+  text: Graduation year(NIT Warangal - Computer Science)
+- counter: 10
   icon: ion-ios-timer-outline
-  text: Websites built
+  text: Jersery number of my favorite cricketer :) 
